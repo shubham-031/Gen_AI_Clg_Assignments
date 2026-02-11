@@ -257,17 +257,6 @@ Gen_AI_Clg_Assignments/
 
 ---
 
-## 🎓 Course Information
-
-This repository contains practical assignments for the **Generative AI** course, covering:
-- **Foundations:** Probabilistic models and text generation
-- **Prompt Engineering:** Advanced techniques for LLM interaction
-- **Language Models:** Fine-tuning and chatbot development
-- **Image Generation:** Diffusion models and text-to-image systems
-- **Multimodal AI:** Vision-language models and cross-modal generation
-- **Speech & Video:** Audio synthesis and video generation
-
----
 
 ## 👤 Author
 
